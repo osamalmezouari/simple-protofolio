@@ -137,7 +137,7 @@ body {
     padding-left: 25px;
 }
 
-.header .links ul li:not(:last-child) a {
+.header .links ul li:not(:last-child) {
     border-bottom: 1px solid #64DD17;
 }
 
@@ -299,7 +299,7 @@ body {
 
 .services .container div:nth-child(5) {
     grid-area: 1/3/2/3;
-    background-image: url(/images/kk.jpg);
+    background-image: url(../images/kk.jpg);
     background-size: cover;
     width: 190px;
     position: absolute;
@@ -409,7 +409,7 @@ body {
     }
 
     .services .container div:nth-child(5) {
-        background-image: url(/images/kk.jpg);
+        background-image: url(../images/kk.jpg);
         background-size: cover;
         width: 190px;
         position: relative;
@@ -476,7 +476,7 @@ body {
 
 .protofolio>.container div:first-child {
     display: inline-block;
-    background-image: url(/images/1.jfif);
+    background-image: url(../images/1.jfif);
     margin-bottom: 20px;
     background-size: cover;
     width: 250px;
@@ -487,7 +487,7 @@ body {
 
 .protofolio>.container div:nth-child(2) {
     display: inline-block;
-    background-image: url(/images/2.png);
+    background-image: url(../images/2.png);
     background-size: cover;
     width: 250px;
     height: 250px;
@@ -499,7 +499,7 @@ body {
 
 .protofolio>.container div:nth-child(3) {
     display: inline-block;
-    background-image: url(/images/3.jpg);
+    background-image: url(../images/3.jpg);
     background-size: cover;
     width: 250px;
     display: inline-block;
