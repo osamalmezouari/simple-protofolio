@@ -617,7 +617,7 @@ body {
 
 .about>.container>div:first-child {
     display: block;
-    background-image: url(/images/4.jfif);
+    background-image: url(../images/4.jfif);
     margin-bottom: 20px;
     grid-area: 1/2;
     background-size: cover;
